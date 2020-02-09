@@ -8,7 +8,7 @@ import java.util.Date;
 
 public class CarModel implements Serializable {
     private static final long serialVersionUID = 1L;
-
+    private String lml;
     private Integer carid;
 
     private String carname;
