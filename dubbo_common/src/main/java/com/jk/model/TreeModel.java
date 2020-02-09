@@ -76,4 +76,7 @@ public class TreeModel implements Serializable {
     public void setNodes(List<TreeModel> nodes) {
         this.nodes = nodes;
     }
+
+    private String gkl;
+
 }
